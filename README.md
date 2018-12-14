@@ -1,2 +1,3 @@
 # domo-pi
-Repositorio para domotización Domusa BioClass
+Proyecto de domotización Domusa BioClass HM 16
+
